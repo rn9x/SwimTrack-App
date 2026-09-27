@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SwimTrack</string>
+    <string name="app_tagline">Swim. Track. Improve.</string>
+    <string name="app_version">1.0.0</string>
+    <string name="app_description">SwimTrack is an offline-first swimming statistics, personal bests, and competition performance tracker.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_records">Records</string>
+    <string name="nav_add">Add</string>
+    <string name="nav_competitions">Competitions</string>
+    <string name="nav_statistics">Statistics</string>
+    <string name="empty_records_title">No swimming records yet</string>
+    <string name="empty_records_subtitle">Add your first result to start tracking your progress.</string>
+    <string name="empty_competitions_title">No competitions yet</string>
+    <string name="empty_competitions_subtitle">Create a competition to log heats, lanes, seed times, and official results.</string>
+    <string name="empty_statistics_title">No statistics available yet</string>
+    <string name="empty_statistics_subtitle">Record training or competition swims to unlock detailed performance analytics.</string>
+    <string name="empty_chart_title">Not enough data for chart</string>
+    <string name="empty_chart_subtitle">Add more valid finished results for this event to see your progression curve.</string>
+</resources>
